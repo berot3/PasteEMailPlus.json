@@ -11,7 +11,7 @@
 {"EncryptFlag":false,"Label":"[TO] LicenseTeam","Pastetext":"license@tricentis.com","Openflag":"false","Cat":"1 > Trial > *header*"}
 {"EncryptFlag":false,"Label":"[Subject]","Pastetext":"TOSCA Testsuite Trial – <COMPANY NAME> – IMMEDIATE FOLLOW UP NEEDED","Openflag":"false","Cat":"1 > Trial > *header*"}
 {"EncryptFlag":false,"Label":"[TO] EU","Pastetext":"\"Mike Schlabinger\" <m.schlabinger@tricentis.com>; \"Hans Planken\" <h.planken@tricentis.com>","Openflag":"false","Cat":"1 > Trial > *header*"}
-{"EncryptFlag":false,"Label":"[TO] APAC","Pastetext":"d.weissboeck@tricentis.com; t.hadorn@tricentis.com","Openflag":"false","Cat":"1 > Trial > *header*"}
+{"EncryptFlag":false,"Label":"[TO] APAC","Pastetext":"Dominik Weissboeck <d.weissboeck@tricentis.com>; Thomas Hadorn <t.hadorn@tricentis.com>","Openflag":"true","Cat":"1 > Trial > *header*"}
 {"EncryptFlag":false,"Label":"[CC] EU/APAC","Pastetext":"f.fuchsberger@tricentis.com; a.mundorff@tricentis.com; j.kornitzer@tricentis.com; b.steele@tricentis.com","Openflag":"false","Cat":"1 > Trial > *header*"}
 {"EncryptFlag":false,"Label":"[CC] UK/BENELUX","Pastetext":"f.fuchsberger@tricentis.com; a.mundorff@tricentis.com; j.kornitzer@tricentis.com; b.steele@tricentis.com; r.kwinkelenberg@tricentis.com;","Openflag":"false","Cat":"1 > Trial > *header*"}
 {"EncryptFlag":false,"Label":"[CC] Finnland/Israel","Pastetext":"f.fuchsberger@tricentis.com; a.mundorff@tricentis.com; mmayan@tesnet-group.com;","Openflag":"false","Cat":"1 > Trial > *header*"}
